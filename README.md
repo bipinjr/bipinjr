@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding,developing codes,also visualizing datas
 - 🌱 I’m currently learning power bi,java.
 - 💞️ I’m looking to collaborate on developers,coders.
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: just your average guy.
+- Pronous : he / him 
 
 <!---
 bipinjr/bipinjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
