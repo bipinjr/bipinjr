@@ -21,23 +21,20 @@
   <a href="mailto:abipin10373@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/abipin10373">
+  <a href="https://github.com/bipinjr">
     <img src="https://img.shields.io/badge/GitHub-Profile-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/bipin-a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abipin10373&label=Profile%20Views&color=6d28d9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/abipin10373?label=Followers&style=for-the-badge&color=4f46e5" />
-  <img src="https://img.shields.io/github/stars/abipin10373?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2563eb" />
+  <img src="https://komarev.com/ghpvc/?username=bipinjr&label=Profile%20Views&color=6d28d9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/bipinjr?label=Followers&style=for-the-badge&color=4f46e5" />
+  <img src="https://img.shields.io/github/stars/bipinjr?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2563eb" />
 </div>
 
 ---
@@ -49,9 +46,9 @@ Second-year BCA student with internship experience across **full-stack engineeri
 I approach development with an engineering-first mindset: design clean architectures, ship practical solutions, optimize performance, and align technical implementation with real user value. My background spans machine learning workflows, React-based interfaces, REST API development, computer vision, data-driven products, and real-time application features powered by modern cloud and database stacks.
 
 **Open To**
-- Software Engineering Internships
-- AI/ML Engineering Roles
-- Full-Stack Development Opportunities
+- AI/ML Internships
+- Full-Stack Developer Internships
+- SDE Internships
 - Open Source Collaboration
 - Hackathons and Product-Focused Engineering Teams
 
@@ -105,9 +102,8 @@ I approach development with an engineering-first mindset: design clean architect
   | Stack | Python, Librosa, Scikit-learn, Google Colab |
   | Scale | Seven-class speech emotion classification workflow |
   | Performance | Compared SVM, Random Forest, and MLP models for best-fit accuracy |
-  | Security | Notebook-based reproducibility with clean experimentation workflow |
   | Impact | Demonstrated practical audio AI capabilities for applied ML portfolios |
-  | Repository | [GitHub](https://github.com/abipin10373) |
+  | Repository | [GitHub](https://github.com/bipinjr) |
 
   This project reflects a strong AI engineering foundation through feature extraction, model benchmarking, and disciplined experimentation. It highlights the ability to move beyond toy notebooks into structured comparative analysis, which is essential for building reliable ML systems.
 
@@ -125,9 +121,8 @@ I approach development with an engineering-first mindset: design clean architect
   | Stack | React, Python, OpenCV |
   | Scale | Registration, check-in, facial recognition attendance, organiser dashboard |
   | Performance | Reduced manual verification overhead and improved entry efficiency |
-  | Security | Controlled organiser-facing workflows and structured attendance handling |
   | Impact | Deployed live for institutional use at [klesnc.online](https://klesnc.online) |
-  | Repository | [GitHub](https://github.com/abipin10373) |
+  | Repository | [GitHub](https://github.com/bipinjr) |
 
   This system demonstrates product engineering maturity by combining frontend usability, backend logic, and computer vision into one operational solution. It also showcases leadership experience through technical ownership and deployment in a live event environment.
 
@@ -145,9 +140,8 @@ I approach development with an engineering-first mindset: design clean architect
   | Stack | React, Supabase, Leaflet, Tailwind CSS |
   | Scale | Multi-role rescue reporting, case management, adoption tracking |
   | Performance | Real-time data workflows for faster response coordination |
-  | Security | Role-based access control for citizens, volunteers, and NGO admins |
   | Impact | Improved visibility and coordination for rescue and welfare operations |
-  | Repository | [GitHub](https://github.com/abipin10373) |
+  | Repository | [GitHub](https://github.com/bipinjr) |
 
   RESQ! stands out as a mission-driven platform with a strong systems design perspective. It combines spatial data, real-time backend capabilities, and role-based permissions to solve a practical coordination problem with measurable social relevance.
 
@@ -165,9 +159,8 @@ I approach development with an engineering-first mindset: design clean architect
   | Stack | React, Supabase, Leaflet, Tailwind CSS, Vercel |
   | Scale | Crop loss prediction, disease guidance, weather insights, multilingual support |
   | Performance | Real-time database-backed delivery of farm intelligence features |
-  | Security | Structured backend design with managed cloud data workflows |
   | Impact | Supported data-driven agriculture use cases and community knowledge sharing |
-  | Repository | [GitHub](https://github.com/abipin10373) |
+  | Repository | [GitHub](https://github.com/bipinjr) |
 
   KRISHIDRISHTI reflects an ability to design technology for underserved and high-impact sectors. The project combines product empathy, modern web architecture, and AI-enabled advisory workflows into a practical platform aligned with real-world field usage.
 
@@ -197,6 +190,12 @@ Contributed to applied machine learning systems focused on healthcare and recogn
 
 `Python` `Machine Learning` `Deep Learning` `TensorFlow` `Scikit-learn` `Model Evaluation`
 
+### Machine Learning Intern | CodeAlpha | 02/2026 – 03/2026
+
+Worked on ML-focused tasks and project-based learning as part of a remote internship program.
+
+`Machine Learning`
+
 ---
 
 ## Achievements
@@ -206,10 +205,11 @@ Contributed to applied machine learning systems focused on healthcare and recogn
 | Recognition | Details |
 |---|---|
 | Multi-Domain Engineering Experience | Built across AI/ML, civic-tech, agri-tech, event-tech, and full-stack product systems |
-| Internship Exposure | Hands-on experience in both AI/ML engineering and full-stack development environments |
+| Internship Exposure | Hands-on experience across four internships in AI/ML engineering and full-stack development |
 | Product Leadership | Served as Tech Lead and delivered a live event management platform |
 | Applied AI Portfolio | Developed projects in speech emotion recognition, healthcare ML, and intelligent farm assistance |
-| Cloud & Engineering Growth | Building expertise in AWS fundamentals, backend engineering, and scalable software systems |
+| Open Source | Accepted contributor — ELUSOC 2026 |
+| Hackathons | Built SELLEZY, an AI Retail Intelligence Suite, with Team Brainstorm |
 
 </div>
 
@@ -217,42 +217,12 @@ Contributed to applied machine learning systems focused on healthcare and recogn
 
 ## Certifications
 
-### AWS
-<img src="https://img.shields.io/badge/AWS-Fundamentals-312E81?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Learning%20Track-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Continuous%20Learning-5B21B6?style=for-the-badge&logo=academia&logoColor=white" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Certified%20Learning-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" />
-
-### Additional Credentials
-<img src="https://img.shields.io/badge/Google%20Cloud-Platform%20Fundamentals-312E81?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Infosys%20Springboard-AI-4C1D95?style=for-the-badge&logo=infosys&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-5B21B6?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-Generative%20AI%20%26%20ChatGPT-1D4ED8?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Forage-Software%20Engineering%20Virtual%20Experience-312E81?style=for-the-badge&logo=forage&logoColor=white" />
-
----
-
-## Coding Profiles
-
 <div align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-312E81?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20%26%20Practice-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Coding%20Challenges-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-1D4ED8?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Platform%20Fundamentals-312E81?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infosys%20Springboard-AI-4C1D95?style=for-the-badge&logo=infosys&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-5B21B6?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Generative%20AI%20%26%20ChatGPT-1D4ED8?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forage-Software%20Engineering%20Virtual%20Experience-312E81?style=for-the-badge&logo=forage&logoColor=white" />
 </div>
 
 ---
@@ -260,14 +230,14 @@ Contributed to applied machine learning systems focused on healthcare and recogn
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abipin10373&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=abipin10373&theme=midnight-purple&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bipinjr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=bipinjr&theme=midnight-purple&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abipin10373&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C4B5FD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinjr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C4B5FD" />
 </div>
 
 ---
@@ -275,7 +245,7 @@ Contributed to applied machine learning systems focused on healthcare and recogn
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abipin10373&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bipinjr&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </div>
 
 ---
@@ -283,7 +253,7 @@ Contributed to applied machine learning systems focused on healthcare and recogn
 ## Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abipin10373&bg_color=000000&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&title_color=FFFFFF" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bipinjr&bg_color=000000&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&title_color=FFFFFF" />
 </div>
 
 ---
@@ -291,7 +261,7 @@ Contributed to applied machine learning systems focused on healthcare and recogn
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abipin10373/abipin10373/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bipinjr/bipinjr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -306,19 +276,30 @@ Learning:
   - Data structures and algorithmic problem solving
 
 Building:
+  - ELUSOC 2026 open-source contributions
+  - RAG-based AI systems
   - AI-enabled full-stack products
-  - Recruiter-ready engineering portfolio systems
   - Real-time applications with Supabase
-  - Practical ML demos with reproducible workflows
 
 Exploring:
   - Software architecture patterns
   - Cloud-native deployment
-  - Intelligent automation and agentic systems
+  - Production-grade RAG architectures
   - Product engineering for scalable user experiences
 
 Open To:
-  - Software engineering internships
-  - AI/ML internships
-  - Full-stack developer roles
-  - Open source collaboration
+  - AI/ML Internships
+  - Full-Stack Developer Internships
+  - SDE Internships
+  - Open Source Collaboration
+```
+
+<div align="center">
+
+  <br/>
+
+  > *"Ship fast, learn faster — build what matters."*
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2575fc,100:0f0c29&section=footer" />
+
+</div>
